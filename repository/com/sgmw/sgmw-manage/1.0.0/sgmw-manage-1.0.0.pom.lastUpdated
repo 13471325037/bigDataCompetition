@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Nov 12 13:56:09 CST 2021
+@default-sgmw-maven-http\://96.11.0.10\:8081/repository/maven-public/.lastUpdated=1636696569094
+http\://96.11.0.10\:8081/repository/maven-public/.error=Could not transfer artifact com.sgmw\:sgmw-manage\:pom\:1.0.0 from/to sgmw-maven (http\://96.11.0.10\:8081/repository/maven-public/)\: Connect to 96.11.0.10\:8081 [/96.11.0.10] failed\: Connection refused\: connect
+@default-nexus-http\://96.11.0.10\:8081/repository/maven-public/.lastUpdated=1636696565856

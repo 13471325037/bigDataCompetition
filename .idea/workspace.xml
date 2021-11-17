@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ec2015e-9009-4fb2-8f76-574d3537949c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sgmw: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bigDataCompetition" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>slf4j</find>
+      <find>javassist</find>
+      <find>tomcat</find>
+      <find>devtools</find>
+      <find>swagger</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\大二第一学期\ideaIU\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="F:\code\java\bigDataCompetition\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aSs20cnTiOjDx0uWUvxbAJ7cJi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.sgmw.bigDataCompetition.dao.mapper" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\sgmw\git_repo\bigDataCompetition\src\main\java\com\sgmw\bigDataCompetition\dao\entity" />
+      <recent name="D:\sgmw\git_repo\bigDataCompetition\src\main\java\com\sgmw\bigDataCompetition" />
+      <recent name="D:\sgmw\git_repo\bigDataCompetition" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sgmw.bigDataCompetition.conf" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sgmw\git_repo\bigDataCompetition\src\main\java\com\sgmw\bigDataCompetition\controller" />
+      <recent name="D:\sgmw\git_repo\bigDataCompetition\src\main\java\com\sgmw\bigDataCompetition\service" />
+      <recent name="D:\sgmw\git_repo\bigDataCompetition\src\main\java\com\sgmw\bigDataCompetition\service\impl" />
+      <recent name="D:\sgmw\git_repo\bigDataCompetition\src\main\java\com\sgmw\bigDataCompetition\dao\mapper" />
+      <recent name="D:\sgmw\git_repo\bigDataCompetition\src\main\java\com\sgmw\bigDataCompetition\dao\entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringApplication">
+    <configuration name="AppTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigDataCompetition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="faultstatistic.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="faultstatistic.test" />
+      <option name="MAIN_CLASS_NAME" value="faultstatistic.test.AppTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigDataCompetition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="faultstatistic.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="faultstatistic.test" />
+      <option name="MAIN_CLASS_NAME" value="faultstatistic.test.AppTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpTableMapperTest.select" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigDataCompetition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sgmw.bigDataCompetition.dao.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sgmw.bigDataCompetition.dao.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.sgmw.bigDataCompetition.dao.mapper.SignUpTableMapperTest" />
+      <option name="METHOD_NAME" value="select" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpTableMapperTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigDataCompetition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sgmw.bigDataCompetition.dao.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sgmw.bigDataCompetition.dao.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.sgmw.bigDataCompetition.dao.mapper.SignUpTableMapperTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpTableMapperTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigDataCompetition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sgmw.bigDataCompetition.dao.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sgmw.bigDataCompetition.dao.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.sgmw.bigDataCompetition.dao.mapper.SignUpTableMapperTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bigDataCompetition" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sgmw.bigDataCompetition.SpringApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.delete" />
+        <item itemvalue="JUnit.AppTest.update" />
+        <item itemvalue="JUnit.SignUpTableMapperTest.update" />
+        <item itemvalue="JUnit.SignUpTableMapperTest.select" />
+        <item itemvalue="JUnit.SignUpTableMapperTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@774c50ea" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ec2015e-9009-4fb2-8f76-574d3537949c" name="Default Changelist" comment="" />
+      <created>1586740118163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586740118163</updated>
+      <workItem from="1586740120895" duration="226000" />
+      <workItem from="1626013413115" duration="478000" />
+      <workItem from="1626057163983" duration="35668000" />
+      <workItem from="1626223914291" duration="33533000" />
+      <workItem from="1626834517616" duration="1056000" />
+      <workItem from="1627272655153" duration="1103000" />
+      <workItem from="1627353591728" duration="258000" />
+      <workItem from="1627355762735" duration="1997000" />
+      <workItem from="1629360360430" duration="1097000" />
+      <workItem from="1629860783838" duration="858000" />
+      <workItem from="1629877472711" duration="954000" />
+      <workItem from="1629945698519" duration="13000" />
+      <workItem from="1629946630176" duration="4178000" />
+      <workItem from="1629959612962" duration="1076000" />
+      <workItem from="1630291047064" duration="619000" />
+      <workItem from="1630569269562" duration="1221000" />
+      <workItem from="1632105130552" duration="91000" />
+      <workItem from="1632471417825" duration="573000" />
+      <workItem from="1632472331191" duration="115000" />
+      <workItem from="1632818004314" duration="14000" />
+      <workItem from="1633654777459" duration="727000" />
+      <workItem from="1633661667529" duration="176000" />
+      <workItem from="1633671788374" duration="1633000" />
+      <workItem from="1633676341244" duration="913000" />
+      <workItem from="1633677848516" duration="1275000" />
+      <workItem from="1633680116305" duration="641000" />
+      <workItem from="1633682779134" duration="752000" />
+      <workItem from="1636696270920" duration="1948000" />
+      <workItem from="1636798601437" duration="1975000" />
+      <workItem from="1636898453754" duration="46000" />
+      <workItem from="1636898518655" duration="2386000" />
+      <workItem from="1636938705520" duration="19609000" />
+      <workItem from="1637024453151" duration="2267000" />
+      <workItem from="1637041540072" duration="599000" />
+      <workItem from="1637114837335" duration="5397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="942" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636944655986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="942" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636944655986" />
+    <state x="741" y="360" width="479" height="320" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1636965845307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="360" width="479" height="320" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1636965845307" />
+    <state x="528" y="113" key="FileChooserDialogImpl" timestamp="1637134389026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="528" y="113" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1637134389026" />
+    <state width="1493" height="300" key="GridCell.Tab.0.bottom" timestamp="1637116160785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1637116160785" />
+    <state width="1877" height="406" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1636970976878" />
+    <state width="1493" height="300" key="GridCell.Tab.0.center" timestamp="1637116160785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1637116160785" />
+    <state width="1877" height="406" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1636970976878" />
+    <state width="1493" height="300" key="GridCell.Tab.0.left" timestamp="1637116160784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1637116160784" />
+    <state width="1877" height="406" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1636970976878" />
+    <state width="1493" height="300" key="GridCell.Tab.0.right" timestamp="1637116160785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1637116160785" />
+    <state width="1877" height="406" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1636970976878" />
+    <state width="1877" height="406" key="GridCell.Tab.1.bottom" timestamp="1636970976824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="301" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1636900951608" />
+    <state width="1877" height="406" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1636970976824" />
+    <state width="1877" height="406" key="GridCell.Tab.1.center" timestamp="1636970976824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="301" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1636900951608" />
+    <state width="1877" height="406" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1636970976824" />
+    <state width="1877" height="406" key="GridCell.Tab.1.left" timestamp="1636970976824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="301" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1636900951608" />
+    <state width="1877" height="406" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1636970976824" />
+    <state width="1877" height="406" key="GridCell.Tab.1.right" timestamp="1636970976824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="301" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1636900951608" />
+    <state width="1877" height="406" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1636970976824" />
+    <state width="220" height="539" key="HiddenNamespacesPopup" timestamp="1636944665181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="220" height="539" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1636944665181" />
+    <state x="311" y="0" width="996" height="738" key="SettingsEditor" timestamp="1636942337480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="249" y="0" width="996" height="738" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1636900085952" />
+    <state x="311" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1636942337480" />
+    <state x="706" y="196" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1636945426920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="196" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636945426920" />
+    <state x="223" y="24" key="new project wizard" timestamp="1636957977134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="178" y="19" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1636799936862" />
+    <state x="223" y="24" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1636957977134" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sgmw/bigDataCompetition/service/impl/BigDataCompetitionServiceImpl.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sgmw/bigDataCompetition/controller/BigDataCompetitionController.java</url>
+          <line>188</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sgmw/bigDataCompetition/controller/BigDataCompetitionController.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sgmw/bigDataCompetition/service/impl/BigDataCompetitionServiceImpl.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sgmw/bigDataCompetition/controller/BigDataCompetitionController.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sgmw/bigDataCompetition/controller/BigDataCompetitionController.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sgmw/bigDataCompetition/controller/BigDataCompetitionController.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sgmw/bigDataCompetition/controller/BigDataCompetitionController.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

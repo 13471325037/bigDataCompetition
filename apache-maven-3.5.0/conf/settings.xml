@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <mirrors>
+	<mirror>  
+	  <id>sgmw-maven</id>  
+	  <name>sgmw maven</name>  
+	  <url>http://96.11.0.10:8081/repository/maven-public/</url>
+	  <mirrorOf>central</mirrorOf>          
+	</mirror>
+	<mirror>  
+	  <id>sgmw-maven</id>  
+	  <name>sgmw maven</name>  
+	  <url>http://96.11.0.10:8081/repository/maven-snapshots/</url>
+	  <mirrorOf>central</mirrorOf>          
+	</mirror>
+  </mirrors>
+  <profiles>
+	<profile>
+     <id>sgmw</id>
+        <repositories>
+        <!-- 私有库地址-->
+          <repository>
+          <id>nexus</id>
+          <url>http://96.11.0.10:8081/repository/maven-public/</url>
+          <releases>
+            <enabled>true</enabled>
+          </releases>
+          <snapshots>
+            <enabled>true</enabled>
+          </snapshots>
+        </repository>
+      </repositories>      
+      <pluginRepositories>
+        <!--插件库地址-->
+        <pluginRepository>
+          <id>nexus</id>
+          <url>http://96.11.0.10:8081/repository/maven-public/</url>
+          <releases>
+            <enabled>true</enabled>
+          </releases>
+          <snapshots>
+            <enabled>true</enabled>
+           </snapshots>
+        </pluginRepository>
+      </pluginRepositories>
+	</profile>
+  </profiles>
+  
+  <activeProfiles>
+    <activeProfile>sgmw</activeProfile>
+  </activeProfiles>
+ 
+	<servers>
+		<server>  
+			<id>maven-releases</id>  
+			<username>admin</username>  
+			<password>admin123</password>  
+		</server>  
+		<server>  
+			<id>maven-snapshots</id>  
+			<username>admin</username>  
+			<password>admin123</password>  
+		</server>
+  </servers>
+</settings>

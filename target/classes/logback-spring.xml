@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<!-- property:定义全局变量，通过${property_name}来引用 -->
+	<!-- %d：时间, %-5level：日志级别字符串, %thread：线程名, %file：文件名, %line：对应的行数, %logger{36}：类名, %msg：具体日志内容, %n：换行 -->
+	<property name="log.pattern" value="[%d] [%-5level] [%thread] [%file:%line] [%logger{36}] - %msg%n" />
+
+	<!-- 输出到控制台 -->
+    <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>${log.pattern}</pattern>
+        </encoder>
+    </appender>
+    
+	<!-- 日志写入文件，最多保存maxHistory天，每天最多保存maxFileSize的容量，总日志文件大小最多为totalSizeCap。最好是totalSizeCap设置为大于maxHistory*maxFileSize，
+		否则可能存现一些问题，如本来想保留30天，但是由于总得日志文件大小提前到达了总阈值，又由于保留天数的限制，所以这种情况下，会导致新的日志不会被写入。
+		maxFileSize日志文件最大是多少，如果某一天内，totalSizeCap>maxFileSize，且日志文件大于maxFileSize，那么旧文件就会被删除，新的日志文件名就是按照fileNamePattern来创建。
+	 	%i就表示索引，01、02、03，一直累加，如果看不到01、02，则表示之前的日志被删除了。
+	 -->   
+    <appender name="logfile"  class="ch.qos.logback.core.rolling.RollingFileAppender">   
+        <encoder> 
+            <pattern>${log.pattern}</pattern>   
+        </encoder> 
+        
+	    <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+	        <fileNamePattern>logs/%d{yyyy-MM-dd}_%i.log</fileNamePattern>
+	        <maxHistory>30</maxHistory>		  <!-- 保留最近30天 -->
+	        <maxFileSize>1GB</maxFileSize>    <!-- 单个日志文件的最大值 -->
+	        <totalSizeCap>31GB</totalSizeCap> <!-- 全部日志文件的总大小 -->
+    	</rollingPolicy>
+	</appender>
+    
+    <root level="info">
+        <appender-ref ref="logfile" />
+    </root>
+    <root level="info">
+    	<appender-ref ref="console" />
+    </root>
+</configuration>
